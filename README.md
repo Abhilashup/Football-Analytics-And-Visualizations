@@ -4,7 +4,7 @@ This contains the analysis of football players using  Tableau
 
 # Acknowledgements
 
-The Twitter Football Analytics Community, mplsoccer library and McKay Johns whose tutorials on YouTube helped me get started!
+The Twitter Football Analytics Community, mplsoccer library, Ninad Barbadikar's Tableau tutorials and McKay Johns tutorials on YouTube that helped me get started!
 
 # Screenshots of some Visualizations from the notebooks and Tableau Workbooks:
 
