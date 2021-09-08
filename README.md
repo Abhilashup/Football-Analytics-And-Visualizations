@@ -27,8 +27,8 @@ The Twitter Football Analytics Community, mplsoccer library, Ninad Barbadikar's 
 
 
 
-# Made Using Python:
-
+# Made Using Python (Matplotlib, Seasborn and mplsoccer libraries) :
+![ansu_shotmap](https://user-images.githubusercontent.com/66258607/132449987-01c5ab0d-c8b6-4459-a715-e9e8d7cdc9ad.png)
 
 
 
