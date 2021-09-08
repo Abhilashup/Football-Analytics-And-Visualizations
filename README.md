@@ -2,6 +2,9 @@
 
 This contains the analysis of football players using  Tableau  as well as Matplotlib, Seaborn and mplsoccer.
 
+I have written a few Twitter threads analyzing players and games as well and be found in the link below:
+https://twitter.com/i/events/1421388089864376326
+
 # Acknowledgements
 
 The Twitter Football Analytics Community, mplsoccer library, Ninad Barbadikar's Tableau tutorials and McKay Johns tutorials on YouTube that helped me get started!
