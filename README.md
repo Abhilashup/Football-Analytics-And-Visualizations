@@ -9,7 +9,7 @@ https://twitter.com/i/events/1421388089864376326
 
 The Twitter Football Analytics Community, mplsoccer library, Ninad Barbadikar's Tableau tutorials and McKay Johns tutorials on YouTube that helped me get started!
 
-# Screenshots of some Visualizations from the notebooks and Tableau Workbooks:
+# Some Visualizations from the notebooks and Tableau Workbooks:
 
 # Tableau :
 ![Memphis Depay](https://user-images.githubusercontent.com/66258607/126436866-95826194-d067-44ae-8e54-ed483fe7dd78.png)
