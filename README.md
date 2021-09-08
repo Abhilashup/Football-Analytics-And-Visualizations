@@ -1,6 +1,6 @@
 # Football-Analytics
 
-This contains the analysis of football players using  Tableau  
+This contains the analysis of football players using  Tableau  as well as Matplotlib, Seaborn and mplsoccer.
 
 # Acknowledgements
 
