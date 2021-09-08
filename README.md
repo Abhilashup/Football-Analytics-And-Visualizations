@@ -52,4 +52,4 @@ The Twitter Football Analytics Community, mplsoccer library, Ninad Barbadikar's 
 
 
 
-
+![spain_vs_sweden](https://user-images.githubusercontent.com/66258607/132450592-23e9087c-7037-4906-b24f-2fe3ddc80430.png)
