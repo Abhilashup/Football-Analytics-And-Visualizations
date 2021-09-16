@@ -47,10 +47,12 @@ The Twitter Football Analytics Community, mplsoccer library, Ninad Barbadikar's 
 
 
 
-
-
 ![Iniesta_Final](https://user-images.githubusercontent.com/66258607/126437555-e031c9e7-c1dd-454a-8aaf-2a1c75b747b8.png)
 
 
 
 ![spain_vs_sweden](https://user-images.githubusercontent.com/66258607/132450592-23e9087c-7037-4906-b24f-2fe3ddc80430.png)
+
+
+![brug_pass_clusters](https://user-images.githubusercontent.com/66258607/133638134-7e5b15e1-fd41-4234-bab6-80cdc2498f1a.png)
+
